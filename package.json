@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/MaggieLi1111/node-api4-project#readme",
   "devDependencies": {
-    "eslint": "^8.6.0"
+    "eslint": "^8.6.0",
+    "nodemon": "^2.0.15"
   },
   "dependencies": {
     "cors": "^2.8.5",
